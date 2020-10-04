@@ -8,3 +8,6 @@ Reason for Selecting Topic: I selected this topic for two main reasons. The firs
 Data Source: My data source is a kaggle dataset that details every UFC fight from 1999 to 2019. (https://www.kaggle.com/rajeevw/ufcdata)
 
 Question hoping to answer: The main question I am hoping to answer is whether or not UFC fights are in fact predictable over the long run. I also want to determine what are the main predictors for a UFC fight.
+
+## Communication Protocols
+This is an individual project, so there will not be any branches for other people. That being said, everything pushed to the master branch will be production ready, or through its own individual branch.
