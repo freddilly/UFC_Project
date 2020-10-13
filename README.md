@@ -15,3 +15,19 @@ This is an individual project, so there will not be any branches for other peopl
 
 ## Google Drive Link
 https://docs.google.com/presentation/d/1hBLaaeTolp2RBYI4GQYp_0oVUa_OJzCeRyoHWAC-bT0/edit#slide=id.g9c0c5bb810_0_15
+
+## Machine Learning
+Pre-processing:
+  - I combined the "Win" and "Loss" column in order to make a cumulative "Record" column for each fighter.
+  - I combined the "current_win_streak" and "current_lose_streak" column for each fighter to make a cumulative "current_streak" column
+  - I scaled all numeric values using the StandardScaler.
+Feature Selection:
+  - I selected the features that I thought would best be used to predict MMA fights. 
+  - These features included both fighter physical attributes (height, reach) as well as fighter performance (significant strikes landed).
+Data Splitting:
+  - The data was split into trainining and testing data using scikit-learn's train_test_split
+  - 75% of the data was designated as training data, 25% was designated as testing data.
+Model Selection:
+  - The model I selected was the logistic regression model.
+  - An advantage of the logistic regression model is that it is easy to train and efficient.
+  - A disadvantage of the logistic regression model is that it makes an arbitrary linear boundary to classify variables.
