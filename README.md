@@ -31,3 +31,6 @@ Model Selection:
   - The model I selected was the logistic regression model.
   - An advantage of the logistic regression model is that it is easy to train and efficient.
   - A disadvantage of the logistic regression model is that it makes an arbitrary linear boundary to classify variables.
+
+## Dashboard
+https://public.tableau.com/profile/fred.dilly3803#!/vizhome/Dashboard_16031757938350/Dashboard?publish=yes
