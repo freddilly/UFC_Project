@@ -13,7 +13,7 @@ Question hoping to answer: The main question I am hoping to answer is whether or
 This is an individual project, so there will not be any branches for other people. That being said, everything pushed to the master branch will be production ready, or through its own individual branch.
 
 
-## Google Drive Link
+## Presentation Link
 https://docs.google.com/presentation/d/1hBLaaeTolp2RBYI4GQYp_0oVUa_OJzCeRyoHWAC-bT0/edit#slide=id.g9c0c5bb810_0_15
 
 ## Machine Learning
